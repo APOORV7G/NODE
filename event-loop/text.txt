@@ -1,0 +1,2 @@
+Server.listen , setInterval and setTimeout => all are ASYNC 
+so they keep listening until terminated
